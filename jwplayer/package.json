@@ -1,0 +1,15 @@
+{
+  "name": "go-jwplayer",
+  "version": "7.3.2",
+  "description": "goreact copy of jwplayer",
+  "main": "jwplayer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.goreact.com:GoREACT/go-jwplayer.git"
+  },
+  "author": "",
+  "license": "ISC"
+}

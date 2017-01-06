@@ -1,0 +1,17 @@
+<!DOCTYPE>
+<html>
+<head>
+  <script src="jwplayer/jwplayer.js"></script>
+</head>
+<body>
+  <div id="player"></div>
+  <script>
+    var url = 'https://s3.amazonaws.com/sw-dev-media-storage/00273eba-1b1b-4e08-907c-ae537e58d146.flv';
+    jwplayer('player').setup({
+      height: 340,
+      width: 480,
+      file: url
+    });
+  </script>
+</body>
+</html>

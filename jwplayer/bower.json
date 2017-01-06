@@ -1,0 +1,19 @@
+{
+  "name": "go-jwplayer",
+  "description": "goreact copy of jwplayer",
+  "main": "jwplayer.js",
+  "authors": [
+    "Erik Donohoo <erikdonohoo@gmail.com>"
+  ],
+  "version": "7.3.2",
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
